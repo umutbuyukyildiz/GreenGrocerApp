@@ -1,0 +1,10 @@
+C:\Users\UMUT\source\repos\ManavApp\ManavApp\bin\Debug\ManavApp.exe.config
+C:\Users\UMUT\source\repos\ManavApp\ManavApp\bin\Debug\ManavApp.exe
+C:\Users\UMUT\source\repos\ManavApp\ManavApp\bin\Debug\ManavApp.pdb
+C:\Users\UMUT\source\repos\ManavApp\ManavApp\obj\Debug\ManavApp.csproj.AssemblyReference.cache
+C:\Users\UMUT\source\repos\ManavApp\ManavApp\obj\Debug\ManavApp.Form1.resources
+C:\Users\UMUT\source\repos\ManavApp\ManavApp\obj\Debug\ManavApp.Properties.Resources.resources
+C:\Users\UMUT\source\repos\ManavApp\ManavApp\obj\Debug\ManavApp.csproj.GenerateResource.cache
+C:\Users\UMUT\source\repos\ManavApp\ManavApp\obj\Debug\ManavApp.csproj.CoreCompileInputs.cache
+C:\Users\UMUT\source\repos\ManavApp\ManavApp\obj\Debug\ManavApp.exe
+C:\Users\UMUT\source\repos\ManavApp\ManavApp\obj\Debug\ManavApp.pdb
